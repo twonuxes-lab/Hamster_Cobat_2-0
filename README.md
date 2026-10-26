@@ -1,2 +1,2 @@
-# Hamster_Cobat_2-0
+# Hamster_Combat_2-0
 Вторая часть известного всем кликера Hamster Combat. Больше чем просто кликер. 
